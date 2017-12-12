@@ -6,11 +6,16 @@
   "scripts": {
     "test": "mocha ./test.js"
   },
-  "keywords": ["feedhenry", "fh", "fh-health", "health"],
+  "keywords": [
+    "feedhenry",
+    "fh",
+    "fh-health",
+    "health"
+  ],
   "repository": "git@github.com:evanshortiss/fh-health.git",
   "author": "Evan Shortiss",
   "dependencies": {
     "async": "*",
-    "request": "2.29.0"
+    "request": "2.81.0"
   }
 }
