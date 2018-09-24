@@ -11,6 +11,6 @@
   "author": "Evan Shortiss",
   "dependencies": {
     "async": "*",
-    "request": "2.29.0"
+    "request": "2.84.0"
   }
 }
